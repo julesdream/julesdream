@@ -7,17 +7,11 @@
 </h2>
 <br><br>
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFRS<br><br>
-    🎵 Amante de música!<br><br>
-    🐸 Sapo<br><br>
-    <img src="https://i.pinimg.com/736x/c4/a5/1f/c4a51f42d0521d8b56fe8fdfbea4d46c.jpg" alt="chihiro" height="400"/>
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://i.pinimg.com/736x/87/3d/c3/873dc34aca91ae5d0f4591e434b5cfe8.jpg" alt="jiji" height="500"/>
-  </div>
-</div>
+<img src="https://i.pinimg.com/736x/87/3d/c3/873dc34aca91ae5d0f4591e434b5cfe8.jpg" alt="Descrição da imagem" align="right" height="500" />
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFRS<br><br>
+🎵 Amante de música!<br><br>
+🐸 Sapo
 
 <br clear="right">
 
