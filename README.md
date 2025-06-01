@@ -7,13 +7,20 @@
 </h2>
 <br><br>
 
-<img src="https://i.pinimg.com/736x/87/3d/c3/873dc34aca91ae5d0f4591e434b5cfe8.jpg" alt="jiji" align="right" height="500" />
+<div style="display: flex; align-items: flex-start;">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFRS<br><br>
-🎵 Amante de música!<br><br>
-🐸 Sapo
+  <div style="flex: 1;">
+    🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFRS<br><br>
+    🎵 Amante de música!<br><br>
+    🐸 Sapo<br><br>
+    <img src="https://i.pinimg.com/736x/c4/a5/1f/c4a51f42d0521d8b56fe8fdfbea4d46c.jpg" alt="chihiro" height="300"/>
+  </div>
 
-<img src="https://i.pinimg.com/736x/22/1f/2b/221f2b867bc51adac7dd5ed68033b609.jpg" alt="chihiro" height="500" style="transform: rotate(-90deg); margin-left: 180px; margin-top: -25px"  />
+  <div>
+    <img src="https://i.pinimg.com/736x/87/3d/c3/873dc34aca91ae5d0f4591e434b5cfe8.jpg" alt="jiji" height="450"/>
+  </div>
+
+</div>
 
 <br clear="right">
 
