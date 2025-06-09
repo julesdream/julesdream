@@ -39,13 +39,15 @@
 
 ##
 
-### 🔗 Redes sociais <br><br>
+### 🔗 Contato <br><br>
 
 <div align="center">
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/matheus-felipetto-013220216/)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>](https://www.instagram.com/mwtheusf/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Gmail" width="50"/>](mailto:math.felipetto@gmail.com)
 
 </div>
 
